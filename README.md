@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kranthikj
-- 👀 I’m interested in building ROM's and apps
+- 👀 I’m interested in building ROMs and apps
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on custom ROM developments
 - 📫 How to reach me ...kranthijanapati07@gmail.com
